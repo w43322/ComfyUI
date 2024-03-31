@@ -16,3 +16,7 @@ venv/
 !/web/extensions/core/
 /tests-ui/data/object_info.json
 /user/
+
+.DS_Store
+!custom_nodes/province_selector
+comfyui*.log
